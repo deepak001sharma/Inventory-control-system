@@ -1,0 +1,1 @@
+Status: 201 JSON: {"_id":"69c7951c49639770d14257ee","username":"test_auth_1774687515512","email":"test_auth_1774687515512@test.com","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5Yzc5NTFjNDk2Mzk3NzBkMTQyNTdlZSIsImlhdCI6MTc3NDY4NzUxNiwiZXhwIjoxNzc3Mjc5NTE2fQ.n7Hw3i04eq9VSSdoCvpAZeNxuw-kwyJjnMdlqbWyKDI"}
